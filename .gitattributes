@@ -1,1 +1,4 @@
 *.ipynb linguist-vendored
+*.twb linguist-vendored
+*.csv linguist-generated
+*.pdf linguist-generated
