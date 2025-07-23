@@ -2,7 +2,6 @@
 
 
 ### Tools & Languages
-- Python (Pandas, scikit-learn, matplotlib)
-- SQL (Azure Data Studio, PostgreSQL)
+- SQL (Azure Data Studio)
 - Jupyter Notebook
 - Tableau
