@@ -2,3 +2,5 @@
 *.twb linguist-vendored
 *.csv linguist-generated
 *.pdf linguist-generated
+
+*.sql linguist-language=SQL
