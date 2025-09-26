@@ -1,9 +1,5 @@
 # The Influence of Social Media
-## Project Info
-- Course: Special Topics in Data Management (SQL & NoSQL)
-- Project Timeline: Spring 2025
-
-### Tools & Languages
+## Tools & Languages
 - SQL (Azure Data Studio)
 - Jupyter Notebook
 - Tableau Public [Dashboard](https://public.tableau.com/app/profile/kai.lin.wang2341/viz/Final_17557324288900/Dashboard1)
